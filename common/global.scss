@@ -1,0 +1,10 @@
+@import './uni.css';
+@import './iconfont.css';
+
+// 设置整个项目的背景色
+page {
+  min-height: 100%;
+  height: auto;
+  font-size: 28rpx;
+  background-color: $uni-bg-color;
+}
